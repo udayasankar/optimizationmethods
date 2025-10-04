@@ -43,4 +43,8 @@ The Laplace Transform: A Generalized Fourier Transform : https://www.youtube.com
 
 Dr. Trefor Bazett : https://www.youtube.com/watch?v=zfhyeXbb0d4
 
+<h3>Intro to Gradient Descent </h3>
+
+Dr. Trefor Bazett : https://www.youtube.com/watch?v=fXQXE96r4AY
+
  
