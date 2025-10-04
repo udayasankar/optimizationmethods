@@ -21,6 +21,8 @@ Optimization Methods google: https://www.youtube.com/watch?v=ALdsqfrLieg&t=3486s
 
 Optimization Methods for Machine Learning by Julius Pfrommer : https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5
 
+MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016: https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd
+
 <h1>Distributed Optimization Concepts</h1>
 
 The Lagrangian: https://www.youtube.com/watch?v=hQ4UNu1P2kw
