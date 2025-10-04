@@ -17,6 +17,8 @@ Optimisation Problem 2: https://www.youtube.com/watch?v=d0CF3d5aEGc
 
 Optimisation Problem 3: https://www.youtube.com/watch?v=uh1Dk68cfWs&t=563s
 
+Optimization Methods google: https://www.youtube.com/watch?v=ALdsqfrLieg&t=3486s
+
 <h1>Distributed Optimization Concepts</h1>
 
 The Lagrangian: https://www.youtube.com/watch?v=hQ4UNu1P2kw
