@@ -23,11 +23,17 @@ Optimization Methods for Machine Learning by Julius Pfrommer : https://www.youtu
 
 MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016: https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd
 
+Optimization by Christopher Lum: https://www.youtube.com/playlist?list=PLxdnSsBqCrrHo2EYb_sMctU959D-iPybT
+
 <h1>Distributed Optimization Concepts</h1>
 
-The Lagrangian: https://www.youtube.com/watch?v=hQ4UNu1P2kw
+<h3>The Lagrangian</h3>
 
-Laplace : 
+https://www.youtube.com/watch?v=hQ4UNu1P2kw
+
+Dr. Trefor Bazett : https://www.youtube.com/watch?v=8mjcnxGMwFo
+
+<h3>Laplace :</h3> 
 
 Khan Academy: https://www.youtube.com/watch?v=-D4GDdxJrpg
 
@@ -35,3 +41,6 @@ MIT Laplace Equationhttps://www.youtube.com/watch?v=OiNh2DswFt4&t=182s
 
 The Laplace Transform: A Generalized Fourier Transform : https://www.youtube.com/watch?v=7UvtU75NXTg&t=3s
 
+Dr. Trefor Bazett : https://www.youtube.com/watch?v=zfhyeXbb0d4
+
+ 
