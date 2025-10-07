@@ -48,4 +48,8 @@ Dr. Trefor Bazett : https://www.youtube.com/watch?v=zfhyeXbb0d4
 
 Dr. Trefor Bazett : https://www.youtube.com/watch?v=fXQXE96r4AY
 
+<h3>Lipschitz :</h3> 
+
+
+
  
