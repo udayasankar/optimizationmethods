@@ -1,6 +1,8 @@
 # optimizationmethods
 Optimization methods for research
 
+Hands-On Mathematical Optimization with Python: https://mobook.github.io/MO-book/intro.html
+
 https://en.wikipedia.org/wiki/Kalman_filter
 
 https://en.wikipedia.org/wiki/Support_vector_machine
