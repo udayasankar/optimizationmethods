@@ -3,6 +3,8 @@ Optimization methods for research
 
 Design Optimization: https://apmonitor.com/me575/
 
+Design Optimization Textbook: https://apmonitor.com/me575/index.php/Main/BookChapters
+
 Hands-On Mathematical Optimization with Python: https://mobook.github.io/MO-book/intro.html
 
 https://en.wikipedia.org/wiki/Kalman_filter
