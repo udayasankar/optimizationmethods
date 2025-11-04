@@ -5,6 +5,8 @@ Design Optimization: https://apmonitor.com/me575/
 
 Design Optimization Textbook: https://apmonitor.com/me575/index.php/Main/BookChapters
 
+How to Teach Optimization: https://castle.princeton.edu/howtoteachoptimization/
+
 Hands-On Mathematical Optimization with Python: https://mobook.github.io/MO-book/intro.html
 
 https://en.wikipedia.org/wiki/Kalman_filter
